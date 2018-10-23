@@ -1,5 +1,5 @@
 # DBSCAN
-A simple template based DBSCAN libiary
+A simple template based DBSCAN library
 
 # Feature
 
